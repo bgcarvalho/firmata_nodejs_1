@@ -1,0 +1,14 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "Use Firmata protocol to control Arduino via Serial com",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bruno Carvalho",
+  "license": "MIT",
+  "dependencies": {
+    "firmata": "^0.17.0"
+  }
+}
