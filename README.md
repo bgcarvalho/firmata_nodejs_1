@@ -34,6 +34,12 @@ $ board.pinMode(13, board.MODES.OUTPUT)
 $ board.digitalWrite(13, 0)
 ```
 
+Now, if the LED is connected to the digital 13, set it on:
+
+```
+$ board.digitalWrite(13, 1)
+```
+
 ## Running indefinitely
 Running as standalone, just type:
 
